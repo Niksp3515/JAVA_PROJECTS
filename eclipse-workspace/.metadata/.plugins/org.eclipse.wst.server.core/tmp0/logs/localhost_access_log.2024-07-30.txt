@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [30/Jul/2024:00:01:14 +0530] "GET /Clothing_Shop/wishlist.jsp HTTP/1.1" 200 37706
+0:0:0:0:0:0:0:1 - - [30/Jul/2024:00:01:16 +0530] "GET /Clothing_Shop/product-details.jsp?pid=6 HTTP/1.1" 200 34868

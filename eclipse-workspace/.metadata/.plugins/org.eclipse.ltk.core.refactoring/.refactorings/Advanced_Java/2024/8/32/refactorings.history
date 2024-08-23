@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;webapp&apos;&#x0D;&#x0A;- Original project: &apos;Advanced_Java&apos;&#x0D;&#x0A;- Destination element: &apos;webapp&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     index.jsp&#x0D;&#x0A;     show.jsp&#x0D;&#x0A;     update.jsp" description="Copy files" element1="src/main/webapp/index.jsp" element2="src/main/webapp/show.jsp" element3="src/main/webapp/update.jsp" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1723054180870" target="/HibernateApp/src/main/webapp" units="0" version="1.0"/>
+</session>

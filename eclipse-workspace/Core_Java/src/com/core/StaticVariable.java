@@ -1,0 +1,31 @@
+package com.core;
+
+import java.util.Scanner;
+
+public class StaticVariable {
+	
+	static int a ;
+	void setValue() {
+		System.out.println("Enter Value of A :");
+		Scanner sc = new Scanner(System.in);
+		a = sc.nextInt();
+	}
+	
+	void printValue() {
+		System.out.println("A : "+a);
+	}
+	public static void main(String[] args) {
+		StaticVariable s1 = new StaticVariable();
+		StaticVariable s2 = new StaticVariable();
+		StaticVariable s3 = new StaticVariable();
+		
+		s1.setValue();
+		s2.setValue();
+		s3.setValue();
+		
+		s1.printValue();
+		s2.printValue();
+		s3.printValue();
+	}
+	
+}
